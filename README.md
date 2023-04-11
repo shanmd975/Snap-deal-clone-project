@@ -27,10 +27,17 @@ Link to visit site:- https://snapdeal-clone.vercel.app/
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="100px" />
 
 ## Functionality
-* Login/Signup
-* Product page
-* Add product to cart
-* Dynamic cart page
+* Product Catalog
+
+* Product Page
+
+* Shopping Cart Page
+
+* Payment Modal
+
+* Login and Persistent Storage
+
+
 
 
 
